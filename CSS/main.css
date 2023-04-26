@@ -79,11 +79,10 @@ justify-self: center;
     align-items: center;    
 }
 
-#message {
+.player {
     grid-column: 2 / 3;
     border: rgb(54, 33, 80) solid;
     background-color: rgb(154, 148, 159);
     font-size: 2.5vmin;
     padding: 20px 50px;
 }
-
